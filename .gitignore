@@ -16,3 +16,6 @@ deployer.wallet.json
 deployer.address
 *.wallet.json
 secrets/
+payer.key
+payer.address
+payer.wallet.json

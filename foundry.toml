@@ -14,6 +14,7 @@ fs_permissions = [{ access = "read", path = "./"}]
 [rpc_endpoints]
 lasna = "https://lasna-rpc.rnk.dev/"
 base_sepolia = "https://sepolia.base.org"
+sepolia = "https://ethereum-sepolia-rpc.publicnode.com"
 
 [etherscan]
 # Verification is via Sourcify on Reactive (see script/deploy.sh)

@@ -1,0 +1,38 @@
+{
+  "brand": "FMF Tools",
+  "track": "Set It and Forget It",
+  "networks": {
+    "originAndDestination": {
+      "name": "Ethereum Sepolia",
+      "chainId": 11155111,
+      "callbackProxy": "0xAa14d9Cd0f788Ca23d11805986C1d8bd035D23b4",
+      "explorer": "https://sepolia.etherscan.io"
+    },
+    "reactive": {
+      "name": "Reactive Lasna",
+      "chainId": 5318007,
+      "explorer": "https://lasna.reactscan.net"
+    }
+  },
+  "contracts": {
+    "PayWatchReactive": "0xdaaA8C47606aCBD12688eB272666318DC827B774",
+    "ReceiptRegistry": "0x267096a80Ebd127CaEfe4B12bDAf040DfADe5Fd9",
+    "DemoToken": "0x1DfCAE54F2E761c29506F3010Ed3Fe4E4cd4e905"
+  },
+  "merchant": "0x06f155638f5Dc8D4Ff640e7983A57465F781990c",
+  "minAmount": "10000000",
+  "deployer": "0x06f155638f5Dc8D4Ff640e7983A57465F781990c",
+  "note": "CALLBACK_GAS_LIMIT is 3,000,000. A first deploy at 1,000,000 ran out of gas on the Sepolia callback proxy; this file is the successful redeploy.",
+  "loop": {
+    "invoiceId": "0xad69510e46525c18aefbce02ea24775bb266809a57fb6ed1eb4ea142d51945b6",
+    "payer": "0x67EdA58E1B2d52bf39e9Dc3c66F15CA15AABD1e6",
+    "originTransferTx": "0x9f4836f6454b47bfff78e0eec9f54d005f8581ce38a8b7b1586ad8466713fab0",
+    "lasnaReactTx": "0xbaa1aed71477e43cdafa6d71f09d24de62cfc454d508778fee8b1911e39d738a",
+    "destinationReceiptTx": "0x5c5907db34e83ae653d7ea8441b0ef549cb1ca8c64801aa5fc229ac655d481cf",
+    "explorers": {
+      "originTransfer": "https://sepolia.etherscan.io/tx/0x9f4836f6454b47bfff78e0eec9f54d005f8581ce38a8b7b1586ad8466713fab0",
+      "lasnaReact": "https://lasna.reactscan.net/tx/0xbaa1aed71477e43cdafa6d71f09d24de62cfc454d508778fee8b1911e39d738a",
+      "destinationReceipt": "https://sepolia.etherscan.io/tx/0x5c5907db34e83ae653d7ea8441b0ef549cb1ca8c64801aa5fc229ac655d481cf"
+    }
+  }
+}

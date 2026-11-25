@@ -15,7 +15,7 @@ contract PayWatchReactive is AbstractReactive {
     uint256 internal constant TRANSFER_TOPIC0 =
         0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef;
 
-    uint64 public constant CALLBACK_GAS_LIMIT = 1_000_000;
+    uint64 public constant CALLBACK_GAS_LIMIT = 3_000_000;
 
     struct Watch {
         uint256 originChainId;
