@@ -34,6 +34,11 @@ See [`deployments/LOOP.md`](deployments/LOOP.md) for contract addresses and the 
 - Lasna react: https://lasna.reactscan.net/tx/0xbaa1aed71477e43cdafa6d71f09d24de62cfc454d508778fee8b1911e39d738a
 - Destination receipt: https://sepolia.etherscan.io/tx/0x5c5907db34e83ae653d7ea8441b0ef549cb1ca8c64801aa5fc229ac655d481cf
 
+## Demo video
+
+A 1:37 walkthrough of the tests and the live testnet loop:
+[docs/paywatch-demo.mp4](https://github.com/GeminiGeorge22/paywatch/raw/main/docs/paywatch-demo.mp4)
+
 ## Tests
 
 ```bash
