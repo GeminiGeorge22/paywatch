@@ -1,0 +1,18 @@
+# Build artifacts
+out/
+cache/
+broadcast/
+node_modules/
+
+# Secrets and local deployer material — never commit
+.env
+.env.*
+*.pem
+*.key
+*.keystore
+.keystore
+deployer.key
+deployer.wallet.json
+deployer.address
+*.wallet.json
+secrets/
