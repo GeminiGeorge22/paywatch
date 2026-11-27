@@ -1,7 +1,7 @@
 # PayWatch demo video (under 3 minutes)
 
 The recorded demo is generated from the live testnet loop and saved as
-`/workspace/money-hunt/first-dollar/paywatch-demo.mp4`.
+`paywatch-demo.mp4` (kept outside this repo).
 
 On-screen brand: FMF Tools. No personal names.
 

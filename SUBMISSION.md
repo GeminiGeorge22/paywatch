@@ -21,4 +21,4 @@ Submit at: https://dorahacks.io/hackathon/reactive-omni-buildathon
   - Origin Transfer (Ethereum Sepolia): `0x9f4836f6454b47bfff78e0eec9f54d005f8581ce38a8b7b1586ad8466713fab0` — https://sepolia.etherscan.io/tx/0x9f4836f6454b47bfff78e0eec9f54d005f8581ce38a8b7b1586ad8466713fab0
   - Lasna react: `0xbaa1aed71477e43cdafa6d71f09d24de62cfc454d508778fee8b1911e39d738a` — https://lasna.reactscan.net/tx/0xbaa1aed71477e43cdafa6d71f09d24de62cfc454d508778fee8b1911e39d738a
   - Destination receipt (Ethereum Sepolia): `0x5c5907db34e83ae653d7ea8441b0ef549cb1ca8c64801aa5fc229ac655d481cf` — https://sepolia.etherscan.io/tx/0x5c5907db34e83ae653d7ea8441b0ef549cb1ca8c64801aa5fc229ac655d481cf
-- Demo video (< 3 minutes): see `/workspace/money-hunt/first-dollar/paywatch-demo.mp4` (generated after the live loop). Upload that file on the DoraHacks form.
+- Demo video (< 3 minutes): `paywatch-demo.mp4` (generated after the live loop; kept outside this repo). Upload that file on the DoraHacks form.
